@@ -1,7 +1,11 @@
-# React + Vite
+# Gif Exper App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Vite - React
 
+Este es mi repositorio del proyecto de Gif Expert App de React
+This is my React Gif Expert App project repository
+
+Actualmente, hay dos complementos oficiales disponibles:
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
